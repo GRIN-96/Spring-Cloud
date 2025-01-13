@@ -1,1 +1,1 @@
-# MSA-Practice
+# Spring-Cloud
